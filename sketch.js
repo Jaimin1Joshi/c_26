@@ -26,7 +26,7 @@ ground=new Ground(250,485,500,20);
 }
 
 function draw() {
-  background(215,235,258); 
+  background(205,295,258); 
   Engnine.update(engine);
 //rectMode(CENTER);
 //rect(ground.position.x,ground.position.y,500,20);
